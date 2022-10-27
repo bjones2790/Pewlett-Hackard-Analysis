@@ -19,13 +19,14 @@ Results
 
 - Of the 90,398 employees eligible for retirement, over 60% are of Senior Staff as seen in the summary table below
 
+![image](https://user-images.githubusercontent.com/112994018/198164433-2f78c76f-7b1a-45da-afb6-9f33e887e7d1.png)
 
 
 - There are also currently 1,549 employees that are eligible to serve as Mentors
 
 
 
-image.png
+![image](https://user-images.githubusercontent.com/112994018/198164471-3800f918-1afe-48e7-8f45-ec0c6eb891df.png)
 
 
 Summary
